@@ -37,8 +37,12 @@ The following diagram describe what you should do:
 
 ![Diagram](./diagram.jfif)
 
-You have a folder (`raw_data`) that contains JSON data from real estate ads and a CSV file with information about buildings. 
-It's required that you write a script to identify for each ad, which building it belongs to. After successfully identifying that an ad X belongs to building Y, load the enriched ad data into a PostgreSQL table (or set of tables). 
+You have a folder (`raw_data`) that contains:
+
+- JSON data from real estate ads,
+- a CSV file with buildings. 
+
+It's required that you write a script to identify for each ad, which building it belongs to. After successfully **identifying that an ad X belongs to building Y, load the enriched ad data into a PostgreSQL table (or set of tables).**
 You should also provide the sql statements to create the table(s) into PostgreSQL database.
 
 
