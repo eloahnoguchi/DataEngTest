@@ -49,5 +49,5 @@ You should also provide the sql statements to create the table(s) into PostgreSQ
 ### Tips and things to keep in mind
 
 - Organize your workflow in a way that you also provide instructions on how to run your scripts.
-- Are you able to provide metrics on how good your script is? Is it able to find a building for every ad?
+- Is your solution able to find a building for every ad? Don't worry if it's 100%, but can you explain why?
 - What would you do differently if you had more time?
