@@ -2,7 +2,7 @@
 
 ## Attention
 
-Fork this repository in order to start building you solution. Then when you're done, send us a link to your repository with the solution.
+Fork this repository in order to start building your solution. Then when you're done, send us a link to your repository with the solution.
 
 ## Requirements
 
